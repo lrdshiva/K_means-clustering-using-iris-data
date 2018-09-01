@@ -3,11 +3,11 @@ Using Kmeans in sklearn I have clustered the groups of flower in iris dataset
 
 Requirments:
 
-python 3.6
+1.python 3.6
 
-sklearn
+2.sklearn
 
-matplotlib
+3.matplotlib
 
 source of data set: SKlearn
 
